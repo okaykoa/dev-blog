@@ -1,6 +1,4 @@
 ---
 layout: page
-title: a public journal and a bad idea.
+title: a public education
 ---
-
-- read the [blog](/pages/blog.md#blog)
